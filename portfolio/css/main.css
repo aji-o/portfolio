@@ -473,15 +473,6 @@ header .gnb ul li.active a {
     background-image: url(../images/contact_h_1.png);
 }
 
-.contact .txt {
-    position: absolute;
-    right: 40px;
-    bottom: 150px;
-    display: flex;
-    flex-direction: column;
-    text-align: right;
-}
-
 
 
 /* cursor */
